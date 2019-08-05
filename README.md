@@ -1,0 +1,2 @@
+# REAL-TIME-FACE-AND-EYE-AND-SMILE-DETECTOR
+Python | Smile detection using OpenCV Emotion detectors are used in many industries, one being the media industry where it is important for the companies to determine the public reaction to their products. In this article, we are going to build a smile detector using OpenCV which takes in live feed from webcam. The smile/happiness detector that we are going to implement would be a raw one, there exist many better ways to implement it.
